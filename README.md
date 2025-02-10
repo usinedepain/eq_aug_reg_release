@@ -24,7 +24,7 @@ To train 30 models with $\gamma=10^0$, run the script
   python train_networks.py 0 30
 ```
 
-The script will do 30 runs, just as in the paper, in an unparallelized fashion. Running the script with arguments n m will instead sett $\gamma=10^n$ and run m runs.
+The script will do 30 runs, just as in the paper, in an unparallelized fashion. Running the script with arguments `n m` will instead set $\gamma=10^n$ and run m runs.
 
 To subsequently plot the results, run 
 
