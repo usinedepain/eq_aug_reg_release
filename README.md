@@ -5,7 +5,7 @@ This repository contains codes used in the experiments of the paper
 ```
 @article{nordenfors2025augmentation
   title={Data Augmentation and Regularization for Learning Group Equivariance},
-  author={Nordenfors, Oskar and Ohlsson, Fredrik and Flinth, Axel},
+  author={Nordenfors, Oskar and Flinth, Axel},
   journal={In preparation},
   year={2025}
 }
